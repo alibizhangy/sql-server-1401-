@@ -1,0 +1,13 @@
+SLQserver agent : 
+executes jobs , moitors SQL server fires alerts and allows 
+aoutomatin of some administrative taske 
+
+SLQ server borws : 
+provide sql server connection information 
+to client computers 
+این سرویس جرو سیستم های 
+shared features 
+و به ازای کل نسخه های که ساختیم یک 
+sql server brows 
+داریم 
+
